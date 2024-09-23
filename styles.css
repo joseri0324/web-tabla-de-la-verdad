@@ -21,7 +21,7 @@ body {
   margin: 70px auto;
   /* se utiliza para crear espacio interno entre el contenido de un elemento y su borde.  */
   padding:50px;
-
+  /* permite definir el estilo, el grosor y el color del borde, mejorando la estética y la estructura visual de la página. */
   border: 2px solid #ddd;
 
   width: 300px;
