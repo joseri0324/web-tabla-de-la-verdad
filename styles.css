@@ -11,7 +11,7 @@ body {
 .title {
   /* se utiliza para establecer el espacio externo (margen) en la parte superior de un elemento. */
   margin-top: 20px;
-
+  /* se utiliza para establecer el color del texto de un elemento. */
   color: #333;
 }
 
