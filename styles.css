@@ -25,7 +25,7 @@ body {
   border: 2px solid #ddd;
   /* Define cuánto espacio horizontal ocupará el elemento en su contenedor. Esto es útil para controlar el diseño y la disposición de los elementos en una página web. */
   width: 300px;
-
+  /* Esta propiedad permite crear bordes suaves y estilizados, lo que mejora la estética y el diseño visual de la página. */
   border-radius: 15px;
 
   box-shadow: 0 2px 50px rgba(0, 0, 0, 0.1);
