@@ -1,6 +1,9 @@
 body {
+  /* se utiliza para especificar la fuente tipográfica que se aplicará a un elemento de texto. */
   font-family: Arial, sans-serif;
+
   background-color: #f4f4f4;
+
   text-align:center ;
 
 }
