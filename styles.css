@@ -23,7 +23,7 @@ body {
   padding:50px;
   /* permite definir el estilo, el grosor y el color del borde, mejorando la estética y la estructura visual de la página. */
   border: 2px solid #ddd;
-
+  /* Define cuánto espacio horizontal ocupará el elemento en su contenedor. Esto es útil para controlar el diseño y la disposición de los elementos en una página web. */
   width: 300px;
 
   border-radius: 15px;
