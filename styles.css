@@ -1,9 +1,9 @@
 body {
   /* se utiliza para especificar la fuente tipográfica que se aplicará a un elemento de texto. */
   font-family: Arial, sans-serif;
-
+  /* se utiliza para establecer el color de fondo de un elemento. */
   background-color: #f4f4f4;
-
+  /* se utiliza para especificar la alineación del texto dentro de un elemento. */
   text-align:center ;
 
 }
