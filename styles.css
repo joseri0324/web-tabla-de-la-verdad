@@ -19,7 +19,7 @@ body {
   background-color: #fff;
   /* se utiliza para establecer el espacio externo (margen) alrededor de un elemento. */
   margin: 70px auto;
-
+  /* se utiliza para crear espacio interno entre el contenido de un elemento y su borde.  */
   padding:50px;
 
   border: 2px solid #ddd;
