@@ -36,7 +36,7 @@ body {
 }
 
 .text {
-
+  /* sirve para hacer que el texto sea más ligero o más pesado, lo que puede ayudar a crear énfasis visual en el contenido. */
   font-weight: bold;
   color: #333;
 }
